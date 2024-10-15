@@ -5,4 +5,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/ADILRADIDI/Leetcode/tree/master/0584-find-customer-referee) |
+## Array
+|  |
+| ------- |
+| [0837-most-common-word](https://github.com/ADILRADIDI/Leetcode/tree/master/0837-most-common-word) |
+## Hash Table
+|  |
+| ------- |
+| [0837-most-common-word](https://github.com/ADILRADIDI/Leetcode/tree/master/0837-most-common-word) |
+## String
+|  |
+| ------- |
+| [0837-most-common-word](https://github.com/ADILRADIDI/Leetcode/tree/master/0837-most-common-word) |
+## Counting
+|  |
+| ------- |
+| [0837-most-common-word](https://github.com/ADILRADIDI/Leetcode/tree/master/0837-most-common-word) |
 <!---LeetCode Topics End-->
