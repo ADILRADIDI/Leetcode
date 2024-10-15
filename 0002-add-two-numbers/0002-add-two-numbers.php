@@ -1,3 +1,34 @@
+/*
+in normal compailer -
+-----------------------------------------------------------------------------------|
+function addTwoNumbers($l1, $l2) {                                                 |
+        $l1_num = ''; // Initialize to collect digits from l1                      |
+        $l2_num = ''; // Initialize to collect digits from l2                      |
+                                                                                   |
+        // Collect digits from l1                                                  |
+        foreach ($l1 as $digit) {                                                  |
+            $l1_num .= $digit; // Concatenate each digit
+        }
+        // Collect digits from l2                                                  |
+        foreach ($l2 as $digit) {                                                  |
+            $l2_num .= $digit; // Concatenate each digit                           |
+        } 
+                                                                                   |
+        // Reverse the concatenated strings                                        |
+        $numbers_first = (int) strrev($l1_num); // Reverse and convert to integer  |
+        $numbers_s = (int) strrev($l2_num); // Reverse and convert to integer      |
+        // Calculate the sum                                                       |
+        $result = $numbers_first + $numbers_s;                                     |
+                                                                                   |
+        // Return the result as an array of its digits                             |
+        return array_map('intval', str_split((string)$result));                    |
+    }                                                                              |
+                                                                                   |
+-----------------------------------------------------------------------------------|
+
+*/
+
+
 /**
  * Definition for a singly-linked list.
  * class ListNode {
